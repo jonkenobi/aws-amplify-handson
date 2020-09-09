@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "amplifypja64cc2f2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
