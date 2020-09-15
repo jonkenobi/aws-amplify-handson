@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "vue",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authamplifypja64cc2f2",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
