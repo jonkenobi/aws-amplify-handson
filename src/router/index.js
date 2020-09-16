@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import AI from '../components/AI.vue';
-import Chat from '../components/Chat.vue';
-import Analytics from '../components/Analytics.vue';
-import WebPush from '../components/WebPush.vue';
+import AI from '../AI.vue';
+import Chat from '../Chat.vue';
+import Analytics from '../Analytics.vue';
+import WebPush from '../WebPush.vue';
 
 Vue.use(Router);
 
