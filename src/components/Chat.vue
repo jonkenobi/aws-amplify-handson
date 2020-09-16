@@ -33,11 +33,11 @@
     import API, {graphqlOperation} from '@aws-amplify/api';
     import {Auth} from 'aws-amplify';
     // eslint-disable-next-line no-unused-vars
-    import {createMessage} from './graphql/mutations';
+    import {createMessage} from '../graphql/mutations';
     // eslint-disable-next-line no-unused-vars
-    import {listMessages} from './graphql/queries';
+    import {listMessages} from '../graphql/queries';
     // eslint-disable-next-line no-unused-vars
-    import {onCreateMessage} from './graphql/subscriptions';
+    import {onCreateMessage} from '../graphql/subscriptions';
 
     window.LOG_LEVEL = 'VERBOSE';
     export default {

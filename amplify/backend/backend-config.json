@@ -23,24 +23,5 @@
         }
       }
     }
-  },
-  "predictions": {
-    "predictions": {
-      "providerPlugin": "awscloudformation",
-      "service": "Translate",
-      "convertType": "translateText"
-    },
-    "identifyLabels56e237a9": {
-      "providerPlugin": "awscloudformation",
-      "service": "Rekognition",
-      "dependsOn": [],
-      "identifyType": "identifyLabels"
-    },
-    "identifyText8dd80962": {
-      "providerPlugin": "awscloudformation",
-      "service": "Rekognition",
-      "dependsOn": [],
-      "identifyType": "identifyText"
-    }
   }
 }
