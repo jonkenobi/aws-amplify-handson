@@ -25,12 +25,14 @@ npm install
 npm run serve || amplify serve 
 ```
 
-###User Authentication function
+### User Authentication function
 Signup, login, and logout is possible
+
 ![alt](readme_images/login.png)
 
-###Live chat function
-Looks pretty much like LINE, live chat is possible. Just create two users and you can start chatting!  
+### Live chat function
+Looks pretty much like LINE, live chat is possible. Just create two users and you can start chatting!
+  
 ![alt](readme_images/chat.png)
 
 #### Notes
