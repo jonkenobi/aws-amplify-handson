@@ -27,11 +27,11 @@ npm run serve || amplify serve
 
 ###User Authentication function
 Signup, login, and logout is possible
-![alt]("/readme_images/login.png")
+![alt](readme_images/login.png)
 
 ###Live chat function
 Looks pretty much like LINE, live chat is possible. Just create two users and you can start chatting!  
-![alt]("/readme_images/chat.png")
+![alt](readme_images/chat.png)
 
 #### Notes
 I implemented the AI function partially, following the tutorial, but am stopping due to a [bug](https://github.com/aws-amplify/amplify-js/issues/3928).
